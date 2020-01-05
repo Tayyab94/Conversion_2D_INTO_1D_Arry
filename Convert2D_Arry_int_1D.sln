@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert2D_Arry_int_1D", "Convert2D_Arry_int_1D\Convert2D_Arry_int_1D.csproj", "{C04340E1-FA2E-40E0-8F8D-910E18E14DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04340E1-FA2E-40E0-8F8D-910E18E14DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04340E1-FA2E-40E0-8F8D-910E18E14DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04340E1-FA2E-40E0-8F8D-910E18E14DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04340E1-FA2E-40E0-8F8D-910E18E14DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1488B7-4D6A-40C7-8DE4-22E497A108C6}
+	EndGlobalSection
+EndGlobal
